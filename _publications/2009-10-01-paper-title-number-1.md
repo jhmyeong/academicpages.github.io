@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Non-Reciprocal Components Based on Angular-Momentum Biasing"
+collection: Poster
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Poster'
+date: 2015-08-25
+venue: 'Korean Institute of Electromagnetic Engineering and Science Summer Symposium'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jong-Hoon Myeong, Byung-Wook Min. (2015). &quot;Poster.&quot; <i>Korean Institute of Electromagnetic Engineering and Science Summer Symposium</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Korean Institute of Electromagnetic Engineering and Science Summer Symposium, Best Paper Award, 2015 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Jong-Hoon Myeong, Byung-Wook Min. (2015). <i>Korean Institute of Electromagnetic Engineering and Science Summer Symposium</i>.
