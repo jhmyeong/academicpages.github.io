@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is JongHoon, Myeong's home on the web.
+Prospective student (Advisor : Byung-Wook Min)<br>
+        MICS Lab<a href="http://web.yonsei.ac.kr/mics/">(Microwave Integrated Circuit and System).</a><br>
+        School of Electrical and Electronics Engineering, Yonsei University</p>
 
-Test
+Current research interests are Analog, RF and mm-wave IC &amp; system
