@@ -34,7 +34,7 @@ Publications
 Conference Paper
 ======
 * Non-Reciprocal Components Based on Angular-momentum Biasing (Jong-Hoon Myeong, Byung-Wook Min) <br>
-Korean Institute of Electromagnetic Engineering and Science Summer Symposium, Best Paper Award, 2015 (08.20~08.22)
+Korean Institute of Electromagnetic Engineering and Science Summer Symposium, Best Paper Award, 2015.08.20~2015.08.22
 
 Teaching
 ======
