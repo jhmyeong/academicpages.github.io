@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2016.06 - 2018.02 : CP Signal man of artillery regiment, ROKA
+* 2016.06 - 2018.02 : CP Signal man of The Artillery Regiment, ROKA (Military Service)
   
 Skills
 ======
