@@ -23,7 +23,9 @@ Skills
 * C, C++
 * Matlab
 * ADS
-* PSpice
+* Cadence
+* HFSS
+* Sonnet
 
 Publications
 ======
